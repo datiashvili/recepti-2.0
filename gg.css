@@ -1,0 +1,103 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.main-1 {
+    background-color: white;
+    width: 400px;
+    padding: 20px;
+    border-radius: 13px;
+    margin: 20px;
+}
+
+.img1 {
+    width: 100%;
+    border-radius: 13px;
+}
+
+.hh1 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.pp1 {
+    color: rgb(107, 107, 107);
+}
+
+.main-2 {
+    background-color: hsl(330, 100%, 98%);
+    padding: 7px;
+    border-radius: 13px;
+}
+
+.hh2 {
+    color: rgb(138, 0, 57);
+    padding-left: 20px;
+}
+
+.ll {
+    margin-bottom: 10px;
+    color: rgb(49, 49, 49);
+    font-weight: 400;
+}
+
+.ss {
+    color: black;
+    font-weight: 900;
+}
+
+.main-3 {
+    border-bottom: rgb(209, 209, 209) solid 1px;
+
+}
+
+
+.hh3 {
+    color: hsl(14, 45%, 36%);
+    padding-left: 7px;
+}
+
+.ii {
+    margin-bottom: 6px;
+}
+
+.main-4 {
+    border-bottom: rgb(209, 209, 209) solid 1px;
+}
+
+.hh4 {
+    color: hsl(14, 45%, 36%);
+    padding-left: 7px;
+}
+
+.oo {
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+
+.hh5 {
+    color: hsl(14, 45%, 36%);
+    padding-left: 7px;
+}
+
+.pp3 {
+    color: rgb(77, 77, 77);
+}
+
+.pp4 {
+    font-weight: 600;
+
+
+}
+
+.main-5 div {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: rgb(209, 209, 209) solid 1px;
+}
